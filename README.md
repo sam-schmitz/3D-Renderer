@@ -1,7 +1,7 @@
 <h1>3D Renderer</h1>
 <p>Final project for CS260(Computer Graphics) made in collaberation with Zach Abbey. </p>
 <p>Renders a 3d scene and turns it into a ppm image. Images can be generated using ray tracing, meshs, and different textures. Multiple images can be turned into an animation. </p>
-<p>Deliverable: An animation of a desk setup. It features multiple complex meshes and rotating peices. </p>
+<p>Deliverable: Final.gif, An animation of a desk setup. It features multiple complex meshes and rotating peices. </p>
 
 <h3>Project Elements</h3>
 <ul>
